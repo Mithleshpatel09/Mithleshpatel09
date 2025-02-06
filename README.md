@@ -1,27 +1,23 @@
-# Hi there! 👋 I'm Mithlesh Patel  
+Hi there! 👋 I'm Mithlesh Patel
+🌟 About Me
+🎓 I’m a B.Tech student in Computer Science with a passion for Data Science.
+🌱 Currently learning Machine Learning and working on data analysis projects.
+💼 Looking to collaborate on impactful data-driven projects.
+💻 Skills and Tools
+Programming Languages: Python, C, C++
+Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+Tools: Git, GitHub, Jupyter Notebook, VS Code
+Concepts: Statistical Analysis, Time-Series Forecasting, Regression Analysis
+🚀 My Projects
+Sea Level Predictor - A regression model to forecast sea levels using historical data.
+Medical Data Visualizer - Visualized medical datasets to uncover trends and patterns.
+Time-Series Visualization - Analyzed and visualized web traffic trends over time.
+📈 GitHub Stats
 
-## 🌟 About Me  
-- 🎓 I’m a B.Tech student in Computer Science.  
-- 🌱 Currently learning **JavaScript** and working on web development projects.  
-- 💼 Looking to collaborate on exciting web projects.  
 
-## 💻 Skills and Tools  
-- Languages: HTML, CSS, JavaScript, Python  
-- Tools: Git, GitHub, VS Code  
-- Frameworks: React, Node.js  
-
-## 🚀 My Projects  
-- [Portfolio Website](https://mithleshpatel09.github.io) - My personal portfolio site.  
-- [Weather App](https://github.com/Mithleshpatel09/WeatherApp) - A weather forecasting app.  
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithleshpatel09&show_icons=true&theme=radical)  
-
-## 📬 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/mithlesh-singh-patel-3753602ba)  
-- [Twitter](https://twitter.com/mithleshpatel09)  
-- 📧 Email: mithleshsinghpatel779@gmail.com  
-
+📬 Connect with Me
+LinkedIn
+📧 Email: mithleshsinghpatel779@gmail.com
 
 
 
