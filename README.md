@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Mithlesh Patel</h1>
-<h3 align="center">B.Tech CSE | Aspiring Data Scientist | Python Enthusiast</h3>
+<h3 align="center">B.Tech CSIT | Aspiring Data Scientist | Python Enthusiast</h3>
 
 ---
 
