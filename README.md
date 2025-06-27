@@ -47,6 +47,10 @@ Visualized medical datasets to uncover trends and patterns using Seaborn and Pan
 Analyzed and visualized web traffic trends over time using Matplotlib and line plots.
 
 ---
+## 📊 Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ## 📊 GitHub Stats
 <p align="center">
