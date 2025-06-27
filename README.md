@@ -38,15 +38,7 @@ Statistical Analysis • Time-Series Forecasting • Regression Analysis
 ## 🚀 My Projects
 ---
 
-### 🚀 Live Demo
-
-Experience the interactive Sea Level Predictor app live!
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://sea-level-predictor-d56qmwsxrzxm3efy7xuevn.streamlit.app/))
-
-[Access Live Demo Here](YOUR_STREAMLIT_APP_URL_HERE)
-
----
+![Uploading image.png…]()
 
 🔹 **Sea Level Predictor**  
 A regression model to forecast sea levels using historical data.  
