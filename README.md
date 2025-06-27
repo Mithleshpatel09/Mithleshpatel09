@@ -1,26 +1,33 @@
-Hi there! 👋 I'm Mithlesh Patel  
+<h1 align="center">Hi 👋, I'm Mithlesh</h1>
+<h3 align="center">A passionate full stack developer from India</h3>
 
-🌟 **About Me**  
-🎓 I’m a B.Tech student in Computer Science with a passion for Data Science.  
-🌱 Currently learning Machine Learning and working on data analysis projects.  
-💼 Looking to collaborate on impactful data-driven projects.  
+---
 
-💻 **Skills and Tools**  
-Programming Languages: Python, C, C++  
-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Power BI  
-Tools: Git, GitHub, Jupyter Notebook, VS Code  
-Concepts: Statistical Analysis, Time-Series Forecasting, Regression Analysis  
+### 🧑‍💻 About Me:
+- 🔭 I’m currently working on React + Node.js Projects  
+- 🌱 I’m learning TypeScript and MongoDB  
+- 💬 Ask me about JavaScript, React, Express  
+- 📫 How to reach me: mithleshknads.work@gmail.com  
+- ⚡ Fun fact: I debug more than I code 😄
 
-🚀 **My Projects**  
-- **Sea Level Predictor**: A regression model to forecast sea levels using historical data.  
-- **Medical Data Visualizer**: Visualized medical datasets to uncover trends and patterns.  
-- **Time-Series Visualization**: Analyzed and visualized web traffic trends over time.  
+---
 
-📊 **GitHub Stats**  
+### 📊 Weekly Coding Time (via WakaTime)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-📧 **Connect with Me**  
-LinkedIn  
-Email: mithleshsinghpatel779@gmail.com  
+---
+
+### 📈 GitHub Stats
+![Mithlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mithleshpatel09&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithleshpatel09&layout=compact)
+
+---
+
+### ☕ Buy Me a Chai!
+<a href="https://www.buymeacoffee.com/Mithleshpatel09" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+</a>
 
 
 
