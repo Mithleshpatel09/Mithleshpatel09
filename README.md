@@ -9,7 +9,13 @@
 - 💼 Looking to collaborate on impactful **data-driven projects**
 
 ---
+## 🔗 My Live Portfolio
 
+Explore my projects and skills in detail on my personal website:
+
+[**Visit My Portfolio Website**](https://Mithleshpatel09.github.io/portfolio/)
+
+---
 ## 💻 Skills and Tools
 
 **Programming Languages**  
