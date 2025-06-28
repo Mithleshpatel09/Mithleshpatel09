@@ -2,7 +2,8 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *' # every day at midnight UTC
+    # Runs at 12am UTC (every day at midnight UTC)
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,3 +14,4 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Optional: You can add more options here (e.g., show_total_commit: true)
