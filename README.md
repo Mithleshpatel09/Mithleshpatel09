@@ -68,11 +68,11 @@ Analyzed and visualized web traffic trends over time using Matplotlib and line p
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         2 hrs 22 mins   ██████████▒░░░░░░░░░░░░░░   41.44 %
-Other        1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-Python       47 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-CSS          41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 %
-Git Config   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Python       5 hrs 11 mins   ████████████▒░░░░░░░░░░░░   49.50 %
+HTML         2 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.68 %
+Other        1 hr 19 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+CSS          41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Git Config   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
