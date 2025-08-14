@@ -68,7 +68,9 @@ Analyzed and visualized web traffic trends over time using Matplotlib and line p
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   3 hrs 49 mins   ████████████████████████▓   98.02 %
+CSV      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Text     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
 <!--END_SECTION:waka-->
